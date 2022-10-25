@@ -7,3 +7,6 @@
 
     Hi, it's pleasure working with you Sahil. 👋
                                         ✍️ Jughead Jones
+
+    Hi Sahil, love from TOKYO 🗼 💝
+                                        ✍️ 💓 Tokyo
