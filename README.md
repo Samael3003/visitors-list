@@ -2,11 +2,14 @@
 
 **Introduces the Visitors' Booklet**
 
-    This is my own repository 😄 
-                                        ✍️ Sahil Sawant
+1.
+        This is my own repository 😄 
+                                            ✍️ Sahil Sawant
 
-    Hi, it's pleasure working with you Sahil. 👋
-                                        ✍️ Jughead Jones
+2.
+        Hi, it's pleasure working with you Sahil. 👋
+                                            ✍️ Jughead Jones
 
-    Hi Sahil, love from TOKYO 🗼 💝
-                                        ✍️ 💓 Tokyo
+3.
+        Hi Sahil, love from TOKYO 🗼 💝
+                                            ✍️ 💓 Tokyo
